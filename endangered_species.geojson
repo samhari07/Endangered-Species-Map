@@ -1,0 +1,27 @@
+{
+"type": "FeatureCollection",
+"name": "endangered_species",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Species": "African Forest Elephant", "Location": "Congo Basin", "Latitude": 0.5, "Longitude": 20.0, "Count": 95000, "Status": "Critically Endangered" }, "geometry": { "type": "Point", "coordinates": [ 20.0, 0.5 ] } },
+{ "type": "Feature", "properties": { "Species": "Sumatran Rhino", "Location": "Sumatra, Indonesia", "Latitude": -0.5, "Longitude": 101.5, "Count": 80, "Status": "Critically Endangered" }, "geometry": { "type": "Point", "coordinates": [ 101.5, -0.5 ] } },
+{ "type": "Feature", "properties": { "Species": "Amur Tiger", "Location": "Russian Far East", "Latitude": 45.0, "Longitude": 134.0, "Count": 500, "Status": "Endangered" }, "geometry": { "type": "Point", "coordinates": [ 134.0, 45.0 ] } },
+{ "type": "Feature", "properties": { "Species": "Bornean Pygmy Elephant", "Location": "Borneo, Malaysia", "Latitude": 4.5, "Longitude": 117.0, "Count": 1500, "Status": "Endangered" }, "geometry": { "type": "Point", "coordinates": [ 117.0, 4.5 ] } },
+{ "type": "Feature", "properties": { "Species": "Grevy’s Zebra", "Location": "Kenya, Ethiopia", "Latitude": 1.0, "Longitude": 38.0, "Count": 2800, "Status": "Endangered" }, "geometry": { "type": "Point", "coordinates": [ 38.0, 1.0 ] } },
+{ "type": "Feature", "properties": { "Species": "Black Rhino", "Location": "Southern Africa", "Latitude": -25.0, "Longitude": 25.0, "Count": 5500, "Status": "Critically Endangered" }, "geometry": { "type": "Point", "coordinates": [ 25.0, -25.0 ] } },
+{ "type": "Feature", "properties": { "Species": "Asian Elephant", "Location": "Southeast Asia", "Latitude": 15.0, "Longitude": 100.0, "Count": 40000, "Status": "Endangered" }, "geometry": { "type": "Point", "coordinates": [ 100.0, 15.0 ] } },
+{ "type": "Feature", "properties": { "Species": "Mountain Gorilla", "Location": "Virunga Mountains", "Latitude": -1.5, "Longitude": 29.5, "Count": 1000, "Status": "Endangered" }, "geometry": { "type": "Point", "coordinates": [ 29.5, -1.5 ] } },
+{ "type": "Feature", "properties": { "Species": "African Wild Dog", "Location": "Sub-Saharan Africa", "Latitude": -5.0, "Longitude": 25.0, "Count": 6600, "Status": "Endangered" }, "geometry": { "type": "Point", "coordinates": [ 25.0, -5.0 ] } },
+{ "type": "Feature", "properties": { "Species": "Giant Panda", "Location": "Sichuan, China", "Latitude": 30.0, "Longitude": 103.0, "Count": 1800, "Status": "Vulnerable" }, "geometry": { "type": "Point", "coordinates": [ 103.0, 30.0 ] } },
+{ "type": "Feature", "properties": { "Species": "Malayan Tapir", "Location": "Malay Peninsula", "Latitude": 4.0, "Longitude": 102.0, "Count": 2500, "Status": "Endangered" }, "geometry": { "type": "Point", "coordinates": [ 102.0, 4.0 ] } },
+{ "type": "Feature", "properties": { "Species": "Bactrian Camel", "Location": "Gobi Desert", "Latitude": 42.0, "Longitude": 105.0, "Count": 950, "Status": "Critically Endangered" }, "geometry": { "type": "Point", "coordinates": [ 105.0, 42.0 ] } },
+{ "type": "Feature", "properties": { "Species": "Pygmy Hippopotamus", "Location": "West Africa", "Latitude": 7.0, "Longitude": -8.0, "Count": 2000, "Status": "Endangered" }, "geometry": { "type": "Point", "coordinates": [ -8.0, 7.0 ] } },
+{ "type": "Feature", "properties": { "Species": "Saiga Antelope", "Location": "Central Asia", "Latitude": 50.0, "Longitude": 70.0, "Count": 120000, "Status": "Critically Endangered" }, "geometry": { "type": "Point", "coordinates": [ 70.0, 50.0 ] } },
+{ "type": "Feature", "properties": { "Species": "Lowland Anoa", "Location": "Sulawesi, Indonesia", "Latitude": -2.0, "Longitude": 120.0, "Count": 2500, "Status": "Endangered" }, "geometry": { "type": "Point", "coordinates": [ 120.0, -2.0 ] } },
+{ "type": "Feature", "properties": { "Species": "Jaguar", "Location": "Amazon Rainforest", "Latitude": -5.0, "Longitude": -60.0, "Count": 64000, "Status": "Near Threatened" }, "geometry": { "type": "Point", "coordinates": [ -60.0, -5.0 ] } },
+{ "type": "Feature", "properties": { "Species": "Spectacled Bear", "Location": "Andes Mountains", "Latitude": -2.0, "Longitude": -78.0, "Count": 18000, "Status": "Vulnerable" }, "geometry": { "type": "Point", "coordinates": [ -78.0, -2.0 ] } },
+{ "type": "Feature", "properties": { "Species": "Maned Wolf", "Location": "Cerrado, Brazil", "Latitude": -15.0, "Longitude": -55.0, "Count": 24000, "Status": "Near Threatened" }, "geometry": { "type": "Point", "coordinates": [ -55.0, -15.0 ] } },
+{ "type": "Feature", "properties": { "Species": "Tasmanian Devil", "Location": "Tasmania", "Latitude": -42.0, "Longitude": 146.0, "Count": 25000, "Status": "Endangered" }, "geometry": { "type": "Point", "coordinates": [ 146.0, -42.0 ] } },
+{ "type": "Feature", "properties": { "Species": "Philippine Eagle", "Location": "Philippines", "Latitude": 12.0, "Longitude": 123.0, "Count": 400, "Status": "Critically Endangered" }, "geometry": { "type": "Point", "coordinates": [ 123.0, 12.0 ] } }
+]
+}
